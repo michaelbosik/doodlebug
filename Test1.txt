@@ -1,0 +1,98 @@
+Script started on Sun 25 Feb 2018 09:30:36 PM EST
+]0;michael@U16: ~/git/homework-5[01;32mmichael@U16[00m:[01;34m~/git/homework-5[00m$ ./PA5 10 20[K[K5 20 [K[K0 100 0 10[K[K50
+ xo  x    
+      x  o
+ o    o  o
+  o   x  o
+        x 
+   o   o  
+o oo      
+  o o    o
+ oo       
+oo     o  
+
+  x x     
+        o 
+      x o 
+ o   x  x 
+  oo     o
+o       o 
+ o        
+ o o o    
+oo     o o
+o o       
+
+ x   x    
+      x  o
+     x  x 
+   o     o
+ o      o 
+ oo       
+  o       
+oo        
+o oo o  o 
+ o       o
+
+         o
+ x   x   o
+  oo     o
+        xo
+ oo       
+ooo     oo
+ooo       
+ooooo     
+ooo oo   o
+oooo   ooo
+
+        oo
+  oo      
+        o 
+ oo      x
+o         
+oo o   o  
+ooo      o
+ooooo    o
+ooooo  ooo
+ooo       
+
+  o     o 
+    o   o 
+         o
+o  o    x 
+oo     o  
+o o o     
+ooo     o 
+ooo  o  oo
+oooo   o  
+oooo   o  
+
+ oo oo ooo
+         o
+ooo    oo 
+ooo    o x
+ooooo  o  
+ooo o    o
+ooo     oo
+ooooo oooo
+oooo  oooo
+oooo    o 
+
+The original input arguments were: 10 5 20 100 0 50
+The number of steps taken were: 7
+The total number of ants created was: 62. The total number of ants left on the grid are: 58.
+The total number of doodle bugs created was: 5. The total number of doodle bugs left on the grid are: 0.
+The final grid is: 
+oo    oooo
+ooo oo o  
+ooo    o  
+ooo o oo  
+oo  o    o
+oooo      
+ooo    oo 
+oooo ooooo
+ooooo  o  
+ooooo oo o
+]0;michael@U16: ~/git/homework-5[01;32mmichael@U16[00m:[01;34m~/git/homework-5[00m$ [K]0;michael@U16: ~/git/homework-5[01;32mmichael@U16[00m:[01;34m~/git/homework-5[00m$ exit
+exit
+
+Script done on Sun 25 Feb 2018 09:32:54 PM EST
